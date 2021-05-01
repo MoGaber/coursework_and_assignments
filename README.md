@@ -1,3 +1,3 @@
 # coursework_and_assignments
 
-The courswork and assignments I finshed in my undergraduate institution. 
+The courswork and assignments I finshed as an undergraduate student.
